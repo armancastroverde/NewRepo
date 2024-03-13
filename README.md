@@ -1,0 +1,1 @@
+Hi Kamusta mga Kaibigan.
