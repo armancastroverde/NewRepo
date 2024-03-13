@@ -1,4 +1,4 @@
-#this is my first Repo
+# This is my first Repo
 
-##this is my 2nd push
+## This is my 2nd push
 print("Hello Madlang People")
